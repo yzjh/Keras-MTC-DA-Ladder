@@ -2,7 +2,7 @@
 
 ### Data Preparation
 
-Download the dataset at https://github.com/yungshenglu/USTC-TK2016 and follow the instructions to generate the mnist format 
+Download the dataset at https://github.com/yungshenglu/USTC-TK2016 and follow the instructions to generate the mnist format. 
 
 Decompress the data compression package in the *mnist/* directory to ensure that its file organization is:
 
@@ -22,8 +22,7 @@ mnist/
 
 ### Environments
 
-Ubuntu 18.04 <br>
-Python 3.6.2 <br>TensorFlow >=1.12.0 <br>keras >=3.6.2 
+Ubuntu 18.04 <br>Python 3.6.2 <br>TensorFlow >=1.12.0 <br>keras >=3.6.2 
 
 ### Train Model
 
